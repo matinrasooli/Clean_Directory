@@ -13,7 +13,7 @@ for example .jpg and .png files will go to 'image' folder
 
 <img src="https://github.com/matinrasooli/matinrasooli/blob/main/pics.png?raw=true" />
 
-##How to Run
+## How to Run
 add `src` to `PYTHONPATH` :
 ```
 export PYTHONPATH=${PWD}
